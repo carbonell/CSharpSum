@@ -1,0 +1,16 @@
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\CSharpSum.exe
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\CSharpSum.deps.json
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\CSharpSum.runtimeconfig.json
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\CSharpSum.runtimeconfig.dev.json
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\CSharpSum.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\ref\CSharpSum.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\bin\Debug\net5.0\CSharpSum.pdb
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.csprojAssemblyReference.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.AssemblyInfoInputs.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.AssemblyInfo.cs
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.csproj.CoreCompileInputs.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\ref\CSharpSum.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.pdb
+C:\Users\Lad\source\repos\CSharp\Dahia\CSharpSum\obj\Debug\net5.0\CSharpSum.genruntimeconfig.cache
